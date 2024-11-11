@@ -10,6 +10,7 @@ class SignInScreen extends StatefulWidget {
 class _SignInScreen extends State<SignInScreen> {
   bool _obscureText = true;
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

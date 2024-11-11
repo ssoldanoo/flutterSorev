@@ -168,4 +168,5 @@ class _RegisterScreen extends State<RegisterScreen> {
       ),
     );
   }
+
 }
